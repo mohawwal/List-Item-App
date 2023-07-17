@@ -91,7 +91,7 @@ ul li {
 
 .fa-solid:hover,
 .fa-solid:focus {
-    background-color: yellow;
+    background-color: rgb(243, 243, 9);
     font-size: 35px;
     border: none;
 }
